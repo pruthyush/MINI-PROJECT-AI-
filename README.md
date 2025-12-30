@@ -12,4 +12,11 @@ Run:
 
 bash
 
+this Project Done by:
+Azbara Badrudeen
+Goutham Harigovind
+Fathima Ifa
+Kezia Thomas
+Pruthyush A S
+
 streamlit run app.py
