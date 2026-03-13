@@ -1,26 +1,21 @@
-steps for the new laptop:
+# 1. Get the code
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
 
-Download project (Clone from GitHub or copy the folder).
-Install Python (Version 3.11 or newer).
-Install libraries: Open terminal in the folder and run:
-
-bash
-
+# 2. Install requirements
 pip install -r requirements.txt
 
-Run:
-
-bash
-
-
+# 3. Start the app
 streamlit run app.py
 
-=====================
+# This Project Done by:
 
-this Project Done by:
+Azbara Badrudeen []
 
-Azbara Badrudeen | 
-Goutham Harigovind | 
-Fathima Ifa | 
-Kezia Thomas | 
-Pruthyush A S |
+Kezia Thomas []
+
+Goutham HariGovind [https://github.com/goutham-hari]
+
+Fathima Ifa [https://github.com/ifaashraf]
+
+Pruthyush A S [https://github.com/pruthyush]
