@@ -1,6 +1,6 @@
 # 1. Get the code
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/pruthyush/MINI-PROJECT-AI-.git
+cd MINI-PROJECT-AI-
 
 # 2. Install requirements
 pip install -r requirements.txt
