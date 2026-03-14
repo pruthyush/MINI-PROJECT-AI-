@@ -10,7 +10,7 @@ streamlit run app.py
 
 # This Project Done by:
 
-Azbara Badrudeen []
+Azbara Badrudeen [https://github.com/Azbara]
 
 Kezia Thomas []
 
